@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/mucahit/work/devel -DCMAKE_INSTALL_PREFIX=/home/mucahit/work/install -G Unix Makefiles
